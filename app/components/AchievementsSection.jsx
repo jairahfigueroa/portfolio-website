@@ -16,13 +16,8 @@ const achievementsList = [
     postfix: "+",
   },
   {
-    prefix: "~",
-    metric: "Users",
-    value: "100",
-  },
-  {
     metric: "Awards",
-    value: "0",
+    value: "1",
   },
   {
     metric: "Years",

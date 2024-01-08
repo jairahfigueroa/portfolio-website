@@ -11,8 +11,8 @@ const projectsData = [
     description: "This is the first website that I created for the company Stillwater Films",
     image: "/images/1.png",
     tag: ["All", "Web", "Mobile"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://stillwaterweddingfilm.com/",
+    previewUrl: "https://stillwaterweddingfilm.com/",
   },
   {
     id: 2,
@@ -20,8 +20,8 @@ const projectsData = [
     description: "This project is for my website development class that features a simple calculator web application",
     image: "/images/2.png",
     tag: ["All", "Web", "Mobile"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://jairahfigueroa.github.io/Calculator/",
+    previewUrl: "https://jairahfigueroa.github.io/Calculator/",
   },
   {
     id: 3,
@@ -29,8 +29,8 @@ const projectsData = [
     description: "A side project dedicated for javascript only code",
     image: "/images/3.jpg",
     tag: ["All", "Web", "Mobile"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://jairahfigueroa.github.io/Flappybird/",
+    previewUrl: "https://jairahfigueroa.github.io/Flappybird/",
   },
   {
     id: 4,
@@ -38,8 +38,8 @@ const projectsData = [
     description: "This is my first game created for the NFT named The Possessed which is mainly for getting whitelisted",
     image: "/images/4.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://sikeloon.itch.io/blessed-or-possessed",
+    previewUrl: "https://sikeloon.itch.io/blessed-or-possessed",
   },
   {
     id: 5,
