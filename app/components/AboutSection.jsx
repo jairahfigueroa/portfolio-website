@@ -15,6 +15,7 @@ const TAB_DATA = [
         <li>Tailwind</li>
         <li>React</li>
         <li>Python</li>
+        <li>SQL</li>
       </ul>
     ),
   },
@@ -33,8 +34,8 @@ const TAB_DATA = [
     id: "experience",
     content: (
       <ul className="list-disc pl-2">
-        <li>Tech I - Revivn</li>
-        <li>Medical Device Assembler - Zoeties</li>
+        <li>IT Technician - Revivn</li>
+        <li>Medical Device Assembler - Zoetis</li>
         <li>Maintenance Technician - Amazon</li>
       </ul>
     ),
@@ -60,7 +61,7 @@ const AboutSection = () => {
           <p className="text-base lg:text-lg">
             I am a frontend developer with a passion for creating
             interactive and responsive web applications. I have experience
-            working with JavaScript, React, Tailwind, HTML, CSS, and Git. I am a quick learner and I am always
+            working with JavaScript, React, Tailwind, HTML, CSS, SQL, and Git. I am a quick learner and I am always
             looking to expand my knowledge and skill set. I am a team player and
             I am excited to work with others to create amazing applications.
           </p>
