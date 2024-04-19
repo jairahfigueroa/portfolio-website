@@ -24,6 +24,8 @@ const HeroSection = () => {
               sequence={[
                 "Jairah Figueroa",
                 1000,
+                "Jairah Figueroa",
+                1000,
               ]}
               wrapper="span"
               speed={50}
